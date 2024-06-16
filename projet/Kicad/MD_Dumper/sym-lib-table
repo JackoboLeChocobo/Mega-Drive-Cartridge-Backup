@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Conn_MD")(type "KiCad")(uri "${KIPRJMOD}/Conn_MD.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32_Board")(type "KiCad")(uri "${KIPRJMOD}/STM32_Board.kicad_sym")(options "")(descr ""))
+)
