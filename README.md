@@ -6,7 +6,7 @@ Merci à lui pour les informations sur son projet et pour son aide sur l'utlisat
 
 ## Objectifs
 
-- Pouvoir récuperer les données de ses propres cartouches Mega Drive
+- Pouvoir récupérer les données de ses propres cartouches Mega Drive
 
 ## Outils utilisés
 
