@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Dépendances
+sudo apt install gcc-arm-none-eabi
+
 #Compilation de libopencm3
 cd libopencm3
 make
