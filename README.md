@@ -18,10 +18,10 @@ Merci à lui pour les informations sur son projet et pour son aide sur l'utlisat
 En attente :
 
 - Réalisation de la carte / Soudure
-- Composants 74LS273 commandés en attente de réception
 
 Etapes Validés :
 - Schéma / Typon Kicad réalisés
 - Firmware / Logiciel recompilables avec les outils open-source
 - Programmeur du STM32F401CCU6 recompilable avec les outils open-source
 - Détection du STM32F401CCU6 en tant que "Mega Drive Dumper" sous Linux avec dmesg et le logiciel d'utilisation
+- Composants 74LS273 reçus
