@@ -4,17 +4,17 @@
 sudo apt install gcc-arm-none-eabi
 
 #Compilation de libopencm3
-cd libopencm3
+cd Deps/libopencm3
 make
 cd ..
 
 #Compilation de WeAct HID Bootloader
 cd WeAct_HID_Bootloader_F4x1/Cli
 make
-cd ../..
+cd ../../..
 
 #Compilation du programme d'utilisation
-cd projet/Software
+cd Software
 ./build.sh
 cd ..
 
